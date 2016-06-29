@@ -1,0 +1,24 @@
+{
+  "name": "thiagotalma/yii2-zopim",
+  "description": "zopim extension for the Yii2 framework",
+  "keywords": [
+    "yii2",
+    "zopim"
+  ],
+  "type": "yii2-extension",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Thiago Talma",
+      "email": "thiago@thiagomt.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "talma\\zopim\\": "src"
+    }
+  }
+}
